@@ -43,3 +43,5 @@ Usage:
 
                 if sim.received_sigint:
                     break
+
+Note: STVI-related pull requests well be ignored.
